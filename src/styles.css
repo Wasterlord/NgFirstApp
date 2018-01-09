@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+ul a li{
+    display: inline-block;   
+    background-color: rgb(26, 179, 26);
+    padding: 1em;
+   
+    border-radius: 0.5em;
+    font-size: 1em;
+    margin-right: 10px;
+    
+    
+   
+   }
+.main {
+    
+    background-image: url(http://fred.com.ua/images/resizing/thumbnails/images/poligrafija_2017/gleman_katalog-fill-1250x3906.jpg);
+    
+}
