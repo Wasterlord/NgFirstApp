@@ -15,3 +15,8 @@ ul a li{
     background-image: url(http://fred.com.ua/images/resizing/thumbnails/images/poligrafija_2017/gleman_katalog-fill-1250x3906.jpg);
     
 }
+
+
+body {
+    background-color: darkcyan;
+}
